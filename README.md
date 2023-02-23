@@ -1,5 +1,6 @@
 # Insurance-csv-Random-Forest-modeling
 Modeling using Random Forests
+
 To use random forests to model data, you would typically need to follow these steps:
 
 Prepare the data: This involves cleaning the data, handling missing values, encoding categorical variables, and splitting the data into training and testing sets.
